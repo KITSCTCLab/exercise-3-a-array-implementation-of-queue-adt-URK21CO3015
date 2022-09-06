@@ -39,7 +39,7 @@ class Solution:
         """
         # Write your code here
         return self.front==-1
-    self.front>self.rear
+    self.front > self.rear
 
     def is_stack_full(self):
         """
