@@ -38,7 +38,7 @@ class Solution:
           True if it is empty, else returns False.
         """
         # Write your code here
-        return self.front==-1 or
+        return self.front==-1
     self.front>self.rear
 
     def is_stack_full(self):
